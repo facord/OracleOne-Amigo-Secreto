@@ -6,9 +6,11 @@
 
 <h2>Funcionalidades:</h2>
 <p><b>Adicionar nomes:</b> Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".</p>
-
-<p><b>Validar entrada: </b>Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</p>
-
+<img src="https://github.com/facord/OracleOne-Amigo-Secreto/blob/main/assets/captura1.png?raw=true">
+<img src="https://github.com/facord/OracleOne-Amigo-Secreto/blob/main/assets/captura2.png?raw=true">
+<p><b>Validar entrada: </b>Se o campo de texto estiver vazio ou se for adicionado números, o programa exibirá um alerta solicitando um nome válido.</p>
+<img src="https://github.com/facord/OracleOne-Amigo-Secreto/blob/main/assets/captura5.png?raw=true">
 <p><b>Visualizar a lista:</b> Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.</p>
-
+<img src="https://github.com/facord/OracleOne-Amigo-Secreto/blob/main/assets/captura3.png?raw=true">
 <p><b>Sorteio aleatório: </b>Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
+<img src="https://github.com/facord/OracleOne-Amigo-Secreto/blob/main/assets/captura4.png?raw=true">
